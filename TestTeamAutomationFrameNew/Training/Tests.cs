@@ -330,7 +330,7 @@ namespace TestTeamAutomationFrameNew.Training
                 counter++;
             }
 
-            // Type some numbers
+            // Type some numbers testing
             TrainingFunctions.CalculatorButton("4", driver, 0);
             TrainingFunctions.CalculatorButton("+", driver, 1);
             TrainingFunctions.CalculatorButton("8", driver, 2);
