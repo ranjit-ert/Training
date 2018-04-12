@@ -1,0 +1,8 @@
+	</div>
+	<div id="footer">
+
+<font color=#8080AD align=right><small><i>Copyright &copy; <YEAR> ExcoInTouch, All rights reserved.</i></small></font>
+	</div>
+</div>
+</body>
+</html>

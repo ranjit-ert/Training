@@ -1,0 +1,13 @@
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\TestTeamAutomationFrameNew.dll
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\TestTeamAutomationFrameNew.pdb
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\nunit.framework.dll
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\nunit.mocks.dll
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\WebDriver.dll
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\WebDriver.Support.dll
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\nunit.framework.xml
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\WebDriver.pdb
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\WebDriver.xml
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\WebDriver.Support.pdb
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\WebDriver.Support.xml
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\obj\Release\TestTeamAutomationFrameNew.dll
+C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\obj\Release\TestTeamAutomationFrameNew.pdb

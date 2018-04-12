@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SAVED>
+  <ENVIRONMENT>TESTALERT</ENVIRONMENT>
+  <TEST>
+                <RUNENVIRONMENT>TEST</RUNENVIRONMENT>
+                <BoltUserName>SmkBOLT</BoltUserName>
+                <BoltPassword>exco1234</BoltPassword>
+                <DebugMode>FALSE</DebugMode>
+                <SHORTENEDURL>https://test.epro.mobi/</SHORTENEDURL>
+                <USERNAME>uiuxuser</USERNAME>
+                <PASSWORD>password4</PASSWORD>
+                <STUDYID>UIUX-SMOKE</STUDYID>
+                <SITEID>Site001</SITEID>
+                <SITEPREFIX>91</SITEPREFIX>
+                <UIUXURL>https://test.itc.excointouch.com</UIUXURL>
+                <MESSAGES>34</MESSAGES>
+    <NEWUSER>smoketester11</NEWUSER>
+    <NEWUSERPWD>password11</NEWUSERPWD>
+                <PORTALVERSION>v1.0.0</PORTALVERSION>
+                <HCPFIRSTNAME>Practice</HCPFIRSTNAME>
+                <HCPSURNAME>South1</HCPSURNAME>
+                <HCPEMAIL>practice@nsouth1.com</HCPEMAIL>
+                <HCPUSERNAME>excopractice</HCPUSERNAME>
+                <HCPPASSWORD>password</HCPPASSWORD>
+                <SELECTSITE></SELECTSITE>
+                <SUBJECTFN>SubjectFN</SUBJECTFN>
+                <SUBJECTLN>SubjectLN</SUBJECTLN>
+                <SUBJECTEMAIL>adam.brown@excointouch.com</SUBJECTEMAIL>
+                <SUBJECTPHONE>07914760568</SUBJECTPHONE>
+                <SUBJECTDOB>26/11/1986</SUBJECTDOB>
+                <SUBJECTADDR>18 Lovell Close</SUBJECTADDR>
+                <SUBJECTDEVICE>OWNDEVICE</SUBJECTDEVICE>
+                <SUBJECTPIN>1234</SUBJECTPIN>
+                <SUBJECTPASS>password</SUBJECTPASS>
+                <SUBJECTID>000101</SUBJECTID>
+                <SUBJECTID>000102</SUBJECTID>
+                <SUBJECTID>000103</SUBJECTID>
+                <SUBJECTID>000104</SUBJECTID>
+    <NEWUSERNAME>11</NEWUSERNAME>
+    <NEWSTUDYNAME>SMK009</NEWSTUDYNAME>
+    <DEFAULTENROLDIARYURL>https://test.reactintouch.com/rc/enrol.aspx?q=</DEFAULTENROLDIARYURL>
+    <DEFAULTLOGDIARYURL>https://test.reactintouch.com/rc/</DEFAULTLOGDIARYURL>
+    <DIARYENROLURL>https://test.reactintouch.com/rc/enrol.aspx?q=TESTVAL&amp;s=</DIARYENROLURL>
+    <DIARYLOGINURL>https://test.reactintouch.com/rc/TESTVAL.aspx?q=TESTVAL&amp;s=</DIARYLOGINURL>
+    <ENVIRONMENT>test</ENVIRONMENT>
+    <PROTOCOL>TESTVAL</PROTOCOL>
+    <REACTBASEURL>https://test.reactintouch.com/</REACTBASEURL>
+    <ReactLoginURL>https://test.reactintouch.com/login.aspx?th=DEFAULT</ReactLoginURL>
+    <DBCONNECTION>Data Source=216.27.83.87;Initial Catalog=React30;integrated security=true</DBCONNECTION>
+    <SeleniumHost>Localhost</SeleniumHost>
+    <SeleniumPort>4444</SeleniumPort>
+    <!--*firefox c:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe, *iexplore or *googlechrome-->
+    <SeleniumBrowser>c:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe</SeleniumBrowser>
+    <!--IE, FF or GC-->
+    <DRIVER>FF</DRIVER>
+    <SummaryFileName>c:\selenium\summary</SummaryFileName>
+    <ResultsFileName>c:\selenium\Results</ResultsFileName>
+    <SeleniumWait>30000</SeleniumWait>
+    <Project>ReactCell</Project>
+    <Version>1.00</Version>
+    <Envname>Maintenance</Envname>
+  </TEST>
+  <SAND>
+                <RUNENVIRONMENT>SAND</RUNENVIRONMENT>
+                <BoltUserName>SmkBOLT</BoltUserName>
+                <BoltPassword>pa55word</BoltPassword>
+                <DebugMode>FALSE</DebugMode>
+                <SHORTENEDURL>https://sand.epro.mobi/</SHORTENEDURL>
+                <USERNAME>uiux</USERNAME>
+                <PASSWORD>password8</PASSWORD>
+                <STUDYID>UIUX-SMOKE</STUDYID>
+                <SITEID>Site001</SITEID>
+                <SITEPREFIX>91</SITEPREFIX>
+                <UIUXURL>http://sand.reactintouch.com/IntouchClinical</UIUXURL>
+                <MESSAGES>34</MESSAGES>
+    <NEWUSER>smoketester11</NEWUSER>
+    <NEWUSERPWD>password11</NEWUSERPWD>
+    <NEWUSERNAME>11</NEWUSERNAME>
+    <NEWSTUDYNAME>SMK009</NEWSTUDYNAME>
+    <DEFAULTENROLDIARYURL>https://sand.reactintouch.com/rc/enrol.aspx?q=</DEFAULTENROLDIARYURL>
+    <DEFAULTLOGDIARYURL>https://sand.reactintouch.com/rc/</DEFAULTLOGDIARYURL>
+    <DIARYENROLURL>https://sand.reactintouch.com/rc/enrol.aspx?q=TESTVAL&amp;s=</DIARYENROLURL>
+    <DIARYLOGINURL>https://sand.reactintouch.com/rc/TESTVAL.aspx?q=TESTVAL&amp;s=</DIARYLOGINURL>
+    <ENVIRONMENT>sand</ENVIRONMENT>
+    <PROTOCOL>TESTVAL</PROTOCOL>
+    <REACTBASEURL>https://sand.reactintouch.com/</REACTBASEURL>
+    <ReactLoginURL>https://sand.reactintouch.com/login.aspx?th=DEFAULT</ReactLoginURL>
+    <DBCONNECTION>Data Source=10.20.20.60;Initial Catalog=React30; User Id=ibennett;Password=Pa55word</DBCONNECTION>
+    <SeleniumHost>Localhost</SeleniumHost>
+    <SeleniumPort>4444</SeleniumPort>
+    <!--*firefox c:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe, *iexplore or *googlechrome-->
+    <SeleniumBrowser>c:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe</SeleniumBrowser>
+    <!--IE, FF or GC-->
+    <DRIVER>IE</DRIVER>
+    <SummaryFileName>c:\selenium\summary</SummaryFileName>
+    <ResultsFileName>c:\selenium\Results</ResultsFileName>
+    <SeleniumWait>30000</SeleniumWait>
+    <Project>ReactCell</Project>
+    <Version>1.00</Version>
+    <Envname>Maintenance</Envname>
+  </SAND>
+  <TESTALERT>
+                <RUNENVIRONMENT>TEST</RUNENVIRONMENT>
+                <BoltUserName>SmkBOLT</BoltUserName>
+                <BoltPassword>exco1234</BoltPassword>
+                <DebugMode>FALSE</DebugMode>
+                <SHORTENEDURL>https://test.epro.mobi/</SHORTENEDURL>
+                <USERNAME>uiuxuser2</USERNAME>
+                <PASSWORD>password1</PASSWORD>
+                <STUDYID>VP0067</STUDYID>
+                <SITEID>UK-0001</SITEID>
+                <SITEPREFIX>91</SITEPREFIX>
+                <UIUXURL>https://test.itc.excointouch.com</UIUXURL>
+                <MESSAGES>34</MESSAGES>
+    <NEWUSER>smoketester11</NEWUSER>
+    <NEWUSERPWD>password11</NEWUSERPWD>
+                <PORTALVERSION>v1.0.0</PORTALVERSION>
+                <HCPFIRSTNAME>Practice</HCPFIRSTNAME>
+                <HCPSURNAME>South1</HCPSURNAME>
+                <HCPEMAIL>practice@nsouth1.com</HCPEMAIL>
+                <HCPUSERNAME>excopractice</HCPUSERNAME>
+                <HCPPASSWORD>password</HCPPASSWORD>
+                <SELECTSITE></SELECTSITE>
+                <SUBJECTFN>SubjectFN</SUBJECTFN>
+                <SUBJECTLN>SubjectLN</SUBJECTLN>
+                <SUBJECTEMAIL>adam.brown@excointouch.com</SUBJECTEMAIL>
+                <SUBJECTPHONE>07914760568</SUBJECTPHONE>
+                <SUBJECTDOB>26/11/1986</SUBJECTDOB>
+                <SUBJECTADDR>18 Lovell Close</SUBJECTADDR>
+                <SUBJECTDEVICE>OWNDEVICE</SUBJECTDEVICE>
+                <SUBJECTPIN>1234</SUBJECTPIN>
+                <SUBJECTPASS>password</SUBJECTPASS>
+                <SUBJECTID>000101</SUBJECTID>
+                <SUBJECTID>000102</SUBJECTID>
+                <SUBJECTID>000103</SUBJECTID>
+                <SUBJECTID>000104</SUBJECTID>
+    <NEWUSERNAME>11</NEWUSERNAME>
+    <NEWSTUDYNAME>SMK009</NEWSTUDYNAME>
+    <DEFAULTENROLDIARYURL>https://test.reactintouch.com/rc/enrol.aspx?q=</DEFAULTENROLDIARYURL>
+    <DEFAULTLOGDIARYURL>https://test.reactintouch.com/rc/</DEFAULTLOGDIARYURL>
+    <DIARYENROLURL>https://test.reactintouch.com/rc/enrol.aspx?q=TESTVAL&amp;s=</DIARYENROLURL>
+    <DIARYLOGINURL>https://test.reactintouch.com/rc/TESTVAL.aspx?q=TESTVAL&amp;s=</DIARYLOGINURL>
+    <ENVIRONMENT>test</ENVIRONMENT>
+    <PROTOCOL>TESTVAL</PROTOCOL>
+    <REACTBASEURL>https://test.reactintouch.com/</REACTBASEURL>
+    <ReactLoginURL>https://test.reactintouch.com/login.aspx?th=DEFAULT</ReactLoginURL>
+    <DBCONNECTION>Data Source=216.27.83.87;Initial Catalog=React30;integrated security=true</DBCONNECTION>
+    <SeleniumHost>Localhost</SeleniumHost>
+    <SeleniumPort>4444</SeleniumPort>
+    <!--*firefox c:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe, *iexplore or *googlechrome-->
+    <SeleniumBrowser>c:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe</SeleniumBrowser>
+    <!--IE, FF or GC-->
+    <DRIVER>FF</DRIVER>
+    <SummaryFileName>c:\selenium\summary</SummaryFileName>
+    <ResultsFileName>c:\selenium\Results</ResultsFileName>
+    <SeleniumWait>30000</SeleniumWait>
+    <Project>ReactCell</Project>
+    <Version>1.00</Version>
+    <Envname>Maintenance</Envname>
+  </TESTALERT>
+</SAVED>
+

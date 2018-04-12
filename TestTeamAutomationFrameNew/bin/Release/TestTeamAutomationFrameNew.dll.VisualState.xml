@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1010]C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\TestTeamAutomationFrameNew.dll</TopNode>
+  <SelectedNode>[0-1010]C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\TestTeamAutomationFrameNew.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\Automation\TestTeamAutomationFrameWork_Merged\TestTeamAutomationFrameNew\bin\Release\TestTeamAutomationFrameNew.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]TestTeamAutomationFrameNew" Expanded="true" />
+    <Node UniqueName="[0-1013]TestTeamAutomationFrameNew.SmkBOLT" Expanded="true" />
+    <Node UniqueName="[0-1007]TestTeamAutomationFrameNew.SmkBOLT.SmkBOLT" Expanded="true" />
+    <Node UniqueName="[0-1008]TestTeamAutomationFrameNew.SmkBOLT.SmkBOLT.firstTest" Expanded="true" />
+    <Node UniqueName="[0-1012]TestTeamAutomationFrameNew.SmokeTest" Expanded="true" />
+    <Node UniqueName="[0-1000]TestTeamAutomationFrameNew.SmokeTest._smokeTest&lt;TWebDriver&gt;" Expanded="true" />
+    <Node UniqueName="[0-1003]TestTeamAutomationFrameNew.SmokeTest._smokeTest&lt;ChromeDriver&gt;" Expanded="true" />
+    <Node UniqueName="[0-1005]TestTeamAutomationFrameNew.SmokeTest._smokeTest&lt;FirefoxDriver&gt;" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1006]TestTeamAutomationFrameNew.SmokeTest._smokeTest&lt;FirefoxDriver&gt;.smokeTest" Checked="true" />
+    <Node UniqueName="[0-1001]TestTeamAutomationFrameNew.SmokeTest._smokeTest&lt;InternetExplorerDriver&gt;" Expanded="true" />
+  </Nodes>
+</VisualState>

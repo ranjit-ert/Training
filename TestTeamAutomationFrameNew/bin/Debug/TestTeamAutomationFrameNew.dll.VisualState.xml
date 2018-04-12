@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1066]C:\SVN\Automation\TestTeamAutomationFrameNew\bin\Debug\TestTeamAutomationFrameNew.dll</TopNode>
+  <SelectedNode>[0-1066]C:\SVN\Automation\TestTeamAutomationFrameNew\bin\Debug\TestTeamAutomationFrameNew.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1066]C:\SVN\Automation\TestTeamAutomationFrameNew\bin\Debug\TestTeamAutomationFrameNew.dll" Expanded="true" />
+    <Node UniqueName="[0-1067]TestTeamAutomationFrameNew" Expanded="true" />
+    <Node UniqueName="[0-1082]TestTeamAutomationFrameNew.AZCOPD_EasyBreathe" Expanded="true" />
+    <Node UniqueName="[0-1081]TestTeamAutomationFrameNew.AZsymbicortEU" Expanded="true" />
+    <Node UniqueName="[0-1080]TestTeamAutomationFrameNew.CDISC" Expanded="true" />
+    <Node UniqueName="[0-1078]TestTeamAutomationFrameNew.GatherAPI" Expanded="true" />
+    <Node UniqueName="[0-1079]TestTeamAutomationFrameNew.Goofy_SMK" Expanded="true" />
+    <Node UniqueName="[0-1074]TestTeamAutomationFrameNew.ITC_SMK" Expanded="true" />
+    <Node UniqueName="[0-1077]TestTeamAutomationFrameNew.mDNA" Expanded="true" />
+    <Node UniqueName="[0-1076]TestTeamAutomationFrameNew.MERCK_SMK" Expanded="true" />
+    <Node UniqueName="[0-1075]TestTeamAutomationFrameNew.PAR10748" Expanded="true" />
+    <Node UniqueName="[0-1019]TestTeamAutomationFrameNew.PAR10748.SmokeTest" Expanded="true" />
+    <Node UniqueName="[0-1021]TestTeamAutomationFrameNew.PAR10748.SmokeTest.PAR0748SmokeTest" Checked="true" />
+    <Node UniqueName="[0-1073]TestTeamAutomationFrameNew.ReactCellFrameWork" Expanded="true" />
+    <Node UniqueName="[0-1072]TestTeamAutomationFrameNew.ReactWS" Expanded="true" />
+    <Node UniqueName="[0-1071]TestTeamAutomationFrameNew.RPT_SMK" Expanded="true" />
+    <Node UniqueName="[0-1070]TestTeamAutomationFrameNew.RS2" Expanded="true" />
+    <Node UniqueName="[0-1069]TestTeamAutomationFrameNew.ServicesAPI" Expanded="true" />
+    <Node UniqueName="[0-1068]TestTeamAutomationFrameNew.Site_User_Enrolment_SMK" Expanded="true" />
+  </Nodes>
+</VisualState>

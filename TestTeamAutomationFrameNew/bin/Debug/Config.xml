@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CONFIG>
+  <ENVIRONMENT>TEST</ENVIRONMENT>
+  <BOB>Builder</BOB>
+  <DBCONNECTION>Data Source=172.16.2.12;Initial Catalog=DBNAME; User Id=SmokeTest;Password=Pa55word</DBCONNECTION>
+ </CONFIG>
+  

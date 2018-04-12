@@ -1,0 +1,17 @@
+</div>
+</div>
+<div id="footer">
+
+    <font color=#8080AD><small><i>
+	<table width="100%" border="0">
+	<tr>
+	<td align="left"><TPNO></td><td align="right">Copyright &copy; <YEAR> ExcoInTouch, All rights reserved.</td>	
+	</tr>
+	</table>
+	
+</i></small></font>
+</div>
+</div>
+</body>
+
+</html>

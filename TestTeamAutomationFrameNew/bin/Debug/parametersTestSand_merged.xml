@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SAVED>
+	<ENVIRONMENT>TEST</ENVIRONMENT>
+	<TEST>
+		<BoltUserName>SmkBOLT</BoltUserName>
+		<BoltPassword>exco1234</BoltPassword>
+		<DebugMode>FALSE</DebugMode>
+		<SHORTENEDURL>https://test.epro.mobi/</SHORTENEDURL>
+		<USERNAME>uiuxuser</USERNAME>
+		<PASSWORD>password4</PASSWORD>
+		<STUDYID>UIUX-SMOKE</STUDYID>
+		<SITEID>Site001</SITEID>
+		<SITEPREFIX>91</SITEPREFIX>
+		<UIUXURL>https://test.itc.excointouch.com</UIUXURL>
+		<MESSAGES>34</MESSAGES>
+		<NEWUSER>smoketester11</NEWUSER>
+		<NEWUSERPWD>password11</NEWUSERPWD>
+		<PORTALVERSION>v1.0.0</PORTALVERSION>
+		<HCPFIRSTNAME>Practice</HCPFIRSTNAME>
+		<HCPSURNAME>South1</HCPSURNAME>
+		<HCPEMAIL>practice@nsouth1.com</HCPEMAIL>
+		<HCPUSERNAME>excopractice</HCPUSERNAME>
+		<HCPPASSWORD>password</HCPPASSWORD>
+		<SELECTSITE></SELECTSITE>
+		<SUBJECTFN>SubjectFN</SUBJECTFN>
+		<SUBJECTLN>SubjectLN</SUBJECTLN>
+		<SUBJECTEMAIL>adam.brown@excointouch.com</SUBJECTEMAIL>
+		<SUBJECTPHONE>07914760568</SUBJECTPHONE>
+		<SUBJECTDOB>26/11/1986</SUBJECTDOB>
+		<SUBJECTADDR>18 Lovell Close</SUBJECTADDR>
+		<SUBJECTDEVICE>OWNDEVICE</SUBJECTDEVICE>
+		<SUBJECTPIN>1234</SUBJECTPIN>
+		<SUBJECTPASS>password</SUBJECTPASS>
+		<SUBJECTID>000101</SUBJECTID>
+		<SUBJECTID>000102</SUBJECTID>
+		<SUBJECTID>000103</SUBJECTID>
+		<SUBJECTID>000104</SUBJECTID>
+		<NEWUSER>smoketester09</NEWUSER>
+		<NEWUSERPWD>password09</NEWUSERPWD>
+		<NEWUSERNAME>09</NEWUSERNAME>
+		<NEWSTUDYNAME>SMK006</NEWSTUDYNAME>
+		<DEFAULTENROLDIARYURL>http://sand.reactintouch.com/rcNov/enrol.aspx?q=</DEFAULTENROLDIARYURL>
+		<DEFAULTLOGDIARYURL>http://sand.reactintouch.com/rcNov/</DEFAULTLOGDIARYURL>
+		<DIARYENROLURL>http://dev-bw.diag.mdna.mobi/ReactCell/Enrol.aspx?q=TESTVAL&amp;s=</DIARYENROLURL>
+		<DIARYLOGINURL>http://dev-bw.diag.mdna.mobi/ReactCell/TESTVAL.aspx?q=TESTVAL&amp;s=</DIARYLOGINURL>
+		<ENVIRONMENT>sand</ENVIRONMENT>
+		<PROTOCOL>TESTVAL</PROTOCOL>
+		<REACTBASEURL>http://sand.reactintouch.com/</REACTBASEURL>
+		<ReactLoginURL>Login.aspx?ReturnUrl=%2fDefault.aspx </ReactLoginURL>
+		<DBCONNECTION>Data Source=78.105.110.132;Initial Catalog=React30; User Id=abrown;Password=M0nk3y494949</DBCONNECTION>
+		<SeleniumHost>Localhost</SeleniumHost>
+		<SeleniumPort>4444</SeleniumPort>
+		<SeleniumBrowser>*iexplore</SeleniumBrowser>
+		<!--*firefox, *iexplore or *googlechrome-->
+		<SeleniumBrowser>*iexplore</SeleniumBrowser>
+		<DRIVER>IE</DRIVER>
+		<SummaryFileName>c:\selenium\summary</SummaryFileName>
+		<ResultsFileName>C:\Users\abrown\Documents\Visual Studio 2010\Projects\AZPortal\WebDriverTestsAG\bin\Release\Results</ResultsFileName>
+		<SeleniumWait>30000</SeleniumWait>
+		<Project>ReactCell</Project>
+		<Version>1.00</Version>
+		<Envname>Test</Envname>
+		<IMGWIDTH>500</IMGWIDTH>
+		<APPIMGWIDTH>250</APPIMGWIDTH>
+		<SILENTTXTCHK>0</SILENTTXTCHK>
+		<MOBILE>Android</MOBILE>
+		<MOBILEV>4.4 (KitKat)</MOBILEV>
+		<PORTALURL>https://test.reactintouch.com/COPD</PORTALURL>
+		<APPPACKAGE>com.excointouch.mobilize.meandmycopd</APPPACKAGE>
+		<APPACTIVITY>.ASZ10668Activity</APPACTIVITY>
+		<APPIUMPATH>C:\Users\abrown\Documents\Appium\AppiumForWindows-0.12.3\Appium\node_modules\appium\server.js</APPIUMPATH>
+		<APPIUMSERVER>127.0.0.1</APPIUMSERVER>
+		<APPIUMPORT>4723</APPIUMPORT>
+		<TAKESCREENSHOTS>on</TAKESCREENSHOTS>		
+	</TEST>
+	<SAND>
+		<RUNENVIRONMENT>SAND</RUNENVIRONMENT>
+		<BoltUserName>SmkBOLT</BoltUserName>
+		<BoltPassword>pa55word</BoltPassword>
+		<DebugMode>FALSE</DebugMode>
+		<SHORTENEDURL>https://sand.epro.mobi/</SHORTENEDURL>
+		<USERNAME>uiux</USERNAME>
+		<PASSWORD>password8</PASSWORD>
+		<STUDYID>UIUX-SMOKE</STUDYID>
+		<SITEID>Site001</SITEID>
+		<SITEPREFIX>91</SITEPREFIX>
+		<UIUXURL>http://sand.reactintouch.com/IntouchClinical</UIUXURL>
+		<MESSAGES>34</MESSAGES>
+		<NEWUSER>smoketester11</NEWUSER>
+		<NEWUSERPWD>password11</NEWUSERPWD>
+		<NEWUSERNAME>11</NEWUSERNAME>
+		<NEWSTUDYNAME>SMK009</NEWSTUDYNAME>
+		<PORTALVERSION>v1.0.0</PORTALVERSION>
+		<HCPFIRSTNAME>Practice</HCPFIRSTNAME>
+		<HCPSURNAME>South1</HCPSURNAME>
+		<HCPEMAIL>practice@nsouth1.com</HCPEMAIL>
+		<HCPUSERNAME>excopractice</HCPUSERNAME>
+		<HCPPASSWORD>password</HCPPASSWORD>
+		<SUBJECTFN>SubjectFN</SUBJECTFN>
+		<SUBJECTLN>SubjectLN</SUBJECTLN>
+		<SUBJECTEMAIL>adam.brown@excointouch.com</SUBJECTEMAIL>
+		<SUBJECTPHONE>07914760568</SUBJECTPHONE>
+		<SUBJECTDOB>26/11/1986</SUBJECTDOB>
+		<SUBJECTADDR>18 Lovell Close</SUBJECTADDR>
+		<SUBJECTDEVICE>OWNDEVICE</SUBJECTDEVICE>
+		<SUBJECTPIN>1234</SUBJECTPIN>
+		<SUBJECTPASS>password</SUBJECTPASS>
+		<SUBJECTID>000101</SUBJECTID>
+		<SUBJECTID>000102</SUBJECTID>
+		<SUBJECTID>000103</SUBJECTID>
+		<SUBJECTID>000104</SUBJECTID>
+		<NEWUSER>smoketester09</NEWUSER>
+		<NEWUSERPWD>password09</NEWUSERPWD>
+		<NEWUSERNAME>11</NEWUSERNAME>
+		<NEWSTUDYNAME>SMK009</NEWSTUDYNAME>
+		<DEFAULTENROLDIARYURL>http://sand.reactintouch.com/rcNov/enrol.aspx?q=</DEFAULTENROLDIARYURL>
+		<DEFAULTLOGDIARYURL>http://sand.reactintouch.com/rcNov/</DEFAULTLOGDIARYURL>
+		<DIARYENROLURL>http://dev-bw.diag.mdna.mobi/ReactCell/Enrol.aspx?q=TESTVAL&amp;s=</DIARYENROLURL>
+		<DIARYLOGINURL>http://dev-bw.diag.mdna.mobi/ReactCell/TESTVAL.aspx?q=TESTVAL&amp;s=</DIARYLOGINURL>
+		<ENVIRONMENT>sand</ENVIRONMENT>
+		<PROTOCOL>TESTVAL</PROTOCOL>
+		<REACTBASEURL>http://sand.reactintouch.com/</REACTBASEURL>
+		<ReactLoginURL>Login.aspx?ReturnUrl=%2fDefault.aspx </ReactLoginURL>
+		<DBCONNECTION>Data Source=78.105.110.132;Initial Catalog=React30; User Id=abrown;Password=M0nk3y494949</DBCONNECTION>
+		<SeleniumHost>Localhost</SeleniumHost>
+		<SeleniumPort>4444</SeleniumPort>
+		<SeleniumBrowser>*iexplore</SeleniumBrowser>
+		<!--*firefox, *iexplore or *googlechrome-->
+		<SeleniumBrowser>*iexplore</SeleniumBrowser>
+		<DRIVER>IE</DRIVER>
+		<SummaryFileName>c:\selenium\summary</SummaryFileName>
+		<ResultsFileName>C:\Users\abrown\Documents\Visual Studio 2010\Projects\AZPortal\WebDriverTestsAG\bin\Release\Results</ResultsFileName>
+		<SeleniumWait>30000</SeleniumWait>
+		<Project>ReactCell</Project>
+		<Version>1.00</Version>
+		<Envname>Sand</Envname>
+		<IMGWIDTH>500</IMGWIDTH>
+		<APPIMGWIDTH>250</APPIMGWIDTH>
+		<SILENTTXTCHK>0</SILENTTXTCHK>
+		<MOBILE>Android</MOBILE>
+		<MOBILEV>4.4 (KitKat)</MOBILEV>
+		<PORTALURL>http://sand.reactintouch.com/COPD</PORTALURL>
+		<APPPACKAGE>com.excointouch.mobilize.meandmycopd</APPPACKAGE>
+		<APPACTIVITY>.ASZ10668Activity</APPACTIVITY>
+		<APPIUMPATH>C:\Users\abrown\Documents\Appium\AppiumForWindows-0.12.3\Appium\node_modules\appium\server.js</APPIUMPATH>
+		<APPIUMSERVER>127.0.0.1</APPIUMSERVER>
+		<APPIUMPORT>4723</APPIUMPORT>
+		<TAKESCREENSHOTS>on</TAKESCREENSHOTS>
+	</SAND>
+

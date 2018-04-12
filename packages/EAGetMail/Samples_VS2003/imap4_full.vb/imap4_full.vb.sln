@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "imap4_full.vb", "imap4_full.vb.vbproj", "{E002885A-4E9D-4031-906D-1F6A1D33AA3B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E002885A-4E9D-4031-906D-1F6A1D33AA3B}.Debug.ActiveCfg = Debug|.NET
+		{E002885A-4E9D-4031-906D-1F6A1D33AA3B}.Debug.Build.0 = Debug|.NET
+		{E002885A-4E9D-4031-906D-1F6A1D33AA3B}.Release.ActiveCfg = Release|.NET
+		{E002885A-4E9D-4031-906D-1F6A1D33AA3B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
