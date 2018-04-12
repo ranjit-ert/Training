@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 
 *.ide
 *.ide-shm
 *.ide-wal
+=======
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TestTeamAutomationFrameNew2013/v15/Server/sqlite3/storage.ide-shm
+/.vs/TestTeamAutomationFrameNew2013/v15/Server/sqlite3/storage.ide-wal
+>>>>>>> 9f4d4544637b23b889df27967fd43aaebdfe489e
+*.tmp
